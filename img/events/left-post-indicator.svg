@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.658" height="107.317" viewBox="0 0 72.658 107.317">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fffefe;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        filter: url(#Left_Post_Indicator);
+      }
+    </style>
+    <filter id="Left_Post_Indicator" x="0" y="0" width="72.658" height="107.317" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Left_Post_Indicator-2" data-name="Left Post Indicator" class="cls-1" d="M1408.334,4876l-33,33,33,33" transform="translate(-1356.33 -4858.34)"/>
+  </g>
+</svg>

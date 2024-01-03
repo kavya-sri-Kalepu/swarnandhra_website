@@ -1,0 +1,10 @@
+<svg id="facebook-white-icon" xmlns="http://www.w3.org/2000/svg" width="7.291" height="15" viewBox="0 0 7.291 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_8" data-name="Path 8" class="cls-1" d="M1.861,15V7.962H0V5.427H1.861V3.263C1.861,1.562,2.96,0,5.494,0A15.386,15.386,0,0,1,7.278.1l-.06,2.366S6.444,2.457,5.6,2.457c-.913,0-1.06.421-1.06,1.12v1.85h2.75l-.12,2.534H4.541V15H1.861"/>
+</svg>
